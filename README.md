@@ -1,5 +1,7 @@
 # Basic Routes Lab
 
+test
+
 ## Learning Goals
 
 - Use `createBrowserRouter` to create a client-side router.
